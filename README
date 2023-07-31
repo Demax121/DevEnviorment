@@ -1,12 +1,13 @@
 
 HOW TO GET STARTED:
 
-Get the files from Simples-SCSS_template folder and place them into your desired directory
-Open folder in text editor prefer VS Code
-
 Open terminal and type: 
 1. npm install
 2. npm start
 wait and it`s ready. Rest figure out alone GL&HF
+
+It`s a development enviorment built for my personal use but feel free to build upon it and do other stuff with it.
+It`s supposed to be simple start with ExpressJS, SCSS and some other stuff it`s built upon my old SIMPLE-SCSS Template which is also available.
+
 
 To build final project type: npm run build
